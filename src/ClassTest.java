@@ -3,7 +3,8 @@ public class ClassTest {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World");
-		System.out.println("free moi");
+		System.out.println("vfkhf");
+		System.out.println("vfkhf");
 		
 
 	}
